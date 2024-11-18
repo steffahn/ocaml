@@ -1,5 +1,5 @@
-OCaml 5.2 maintenance version
------------------------------
+OCaml 5.2.1 (18 November 2024)
+------------------------------
 
 - #13207: Be sure to reload the register caching the exception handler in
   caml_c_call and caml_c_call_stack_args, as its value may have been changed
